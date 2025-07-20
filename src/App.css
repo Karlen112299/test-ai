@@ -1,0 +1,26 @@
+.App {
+  background: #222;
+  color: #fff;
+  text-align: center;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+#scoreboard {
+  margin: 20px auto;
+  font-size: 2em;
+  width: 150px;
+}
+
+#pong {
+  background: #000;
+  display: block;
+  margin: 0 auto;
+  border: 2px solid #fff;
+  box-shadow: 0 0 15px #111;
+}
+
+.instructions {
+  margin-top: 16px;
+  color: #ccc;
+}
